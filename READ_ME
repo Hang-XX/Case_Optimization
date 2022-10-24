@@ -1,6 +1,0 @@
-The compiler steps are described as follows
-
-1 Use static library compilation:
- 1) cd src 
- 2) make clean 
- 3) make
